@@ -1,0 +1,4 @@
+Depth - The level of the tree. Zero is the top of the tree. 
+Goal - Node the algorithm is looking for.
+Child - Nodes directly below a node, one level away.
+Goal - Node the algorithm is looking for.
